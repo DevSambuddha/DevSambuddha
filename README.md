@@ -6,7 +6,7 @@
 </div> --!>
 
 
-<p align="left"> <a href="https://twitter.com/x.com/biswassambuddha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/biswassambuddha" height="30" width="40"  />@biswasambuddha</a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/x.com/biswassambuddha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/biswassambuddha" height="30" width="40"  />@biswasambuddha</a> </p> --!>
 
 - 🌱 I’m currently learning **NextJS**
 
