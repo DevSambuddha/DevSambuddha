@@ -42,9 +42,9 @@
 <h2 align="left">More Info</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsambuddha&" alt="devsambuddha" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsambuddha&show_icons=true&locale=en&layout=compact" alt="devsambuddha" /></p>
-<h2 align="left">Connect with me:</h2>
+<!-- <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/x.com/biswassambuddha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/biswassambuddha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sambuddha-biswas-b0b957256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sambuddha-biswas-b0b957256/" height="30" width="40" /></a>
-
+ -->
 </p>
