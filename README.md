@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://in.pinterest.com/">
-    <img src="https://i.pinimg.com/564x/4d/15/5c/4d155c6f7e5b1c6942059703c403ecaf.jpg" alt="MasterHead" style="width:100%; max-width:800px;">
+    <img src="https://i.pinimg.com/564x/4d/15/5c/4d155c6f7e5b1c6942059703c403ecaf.jpg" alt="MasterHead" style="width:600px; lenght:1200px;">
   </a>
 </p>
 
