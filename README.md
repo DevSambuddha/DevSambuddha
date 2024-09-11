@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="https://in.pinterest.com/">
+    <img src="https://i.pinimg.com/564x/4d/15/5c/4d155c6f7e5b1c6942059703c403ecaf.jpg" alt="MasterHead" style="width:100%; max-width:800px;">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sambuddha Biswas</h1>
 <h4 align="center">I love creating awesome stuff, even if it's a bit off the beaten path.</h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=devsambuddha&label=Profile%20views&color=0e75b6&style=flat" alt="devsambuddha" /> </p>
