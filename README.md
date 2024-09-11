@@ -14,23 +14,23 @@
 
 <h2 align="left">Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,typescript,py)](https://skillicons.dev)
+[![My Language](https://skillicons.dev/icons?i=java,js,typescript,py)](https://skillicons.dev)
 
 <h2 align="left">Framework</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,tailwindcss,nextjs)](https://skillicons.dev)
+[![My Framework](https://skillicons.dev/icons?i=react,express,tailwindcss,nextjs)](https://skillicons.dev)
 
 <h2 align="left">Database</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis)](https://skillicons.dev)
+[![My Database](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis)](https://skillicons.dev)
 
 <h2 align="left">Backend Development</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Backend Development](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 <h2 align="left">Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,postman,docker,kubernetes)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,git,github,postman,vscode,docker,kubernetes)](https://skillicons.dev)
 
 <h2 align="left">More Info</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsambuddha&" alt="devsambuddha" /></p>
