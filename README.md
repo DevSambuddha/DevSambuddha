@@ -40,7 +40,7 @@
 [![My Tools](https://skillicons.dev/icons?i=linux,git,github,postman,vscode,docker,kubernetes)](https://skillicons.dev)
 
 <h2 align="left">More Info</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsambuddha&" alt="devsambuddha" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsambuddha&" alt="devsambuddha" /></p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsambuddha&show_icons=true&locale=en&layout=compact" alt="devsambuddha" /></p>
 <!-- <h2 align="left">Connect with me:</h2>
 <p align="left">
