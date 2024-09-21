@@ -37,7 +37,7 @@
 
 <h2 align="left">Tools</h2>
 
-[![My Tools](https://skillicons.dev/icons?i=linux,git,github,postman,vscode,docker,kubernetes)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,git,github,postman,vscode,vim,docker,kubernetes)](https://skillicons.dev)
 
 <h2 align="left">More Info</h2>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsambuddha&" alt="devsambuddha" /></p> -->
