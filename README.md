@@ -29,7 +29,7 @@
 
 <h2 align="left">Database</h2>
 
-[![My Database](https://skillicons.dev/icons?i=mongodb,postgresql,redis)](https://skillicons.dev)
+[![My Database](https://skillicons.dev/icons?i=mongodb,postgresql,prisma,redis)](https://skillicons.dev)
 
 <h2 align="left">Backend Development</h2>
 
