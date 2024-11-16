@@ -33,7 +33,7 @@
 
 <h2 align="left">Backend Development</h2>
 
-[![My Backend Development](https://skillicons.dev/icons?i=nodejs,flask)](https://skillicons.dev)
+[![My Backend Development](https://skillicons.dev/icons?i=nodejs,flask,fastapi)](https://skillicons.dev)
 
 <h2 align="left">Tools</h2>
 
